@@ -1,0 +1,9 @@
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.deps.json
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.dll
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.pdb
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.csprojAssemblyReference.cache
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.AssemblyInfoInputs.cache
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.AssemblyInfo.cs
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.csproj.CoreCompileInputs.cache
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.dll
+D:\20487C\Demo\20487-Mod2-Demo-Lesson4_3\Solution\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.pdb
